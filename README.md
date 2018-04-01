@@ -1,5 +1,7 @@
 # Go-MySQL-Driver
 
+Brian Ristig
+
 A MySQL-Driver for Go's [database/sql](https://golang.org/pkg/database/sql/) package
 
 ![Go-MySQL-Driver logo](https://raw.github.com/wiki/go-sql-driver/mysql/gomysql_m.png "Golang Gopher holding the MySQL Dolphin")
